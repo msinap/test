@@ -15,4 +15,4 @@ while not shouldQuit:
             break
     pygame.display.flip()
 
-# Comment is on MASTERRRRR
+# Comment is on drawrect e bawww
